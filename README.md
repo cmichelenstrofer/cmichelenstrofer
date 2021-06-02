@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on marine renewable energy (modeling, controls, forecasting)
+- 👯 I’m looking to collaborate on data assimilation and machine learning for marine renewable energy applications
+- 🌱 I’m currently learning Julia language
+- 😄 Pronouns: he/him/his
 <!--
 **cmichelenstrofer/cmichelenstrofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
