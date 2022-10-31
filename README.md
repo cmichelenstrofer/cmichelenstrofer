@@ -3,6 +3,7 @@
 - 👯 I’m looking to collaborate on data-driven methods for marine renewable energy applications
 - 🌱 I’m currently learning the [Julia language](https://julialang.org/)
 - 😄 Pronouns: he/him/él
+- 👏🏾 Inclusion and outreach efforts in marine renewable energy
 <!--
 **cmichelenstrofer/cmichelenstrofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
